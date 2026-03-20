@@ -131,7 +131,7 @@ while running:
                      pausing = False
 
                 bird_drop_velocity = 0
-                bird_drop_velocity -= 10
+                bird_drop_velocity -= 8
 
 
     pygame.display.flip()
